@@ -1,0 +1,19 @@
+vlt-navbar-logo img{
+    width: 100%;
+    height: 70px;
+}
+
+@media only screen and (max-width: 600px) {
+    h1.vlt-large-heading{
+        font-size: 60px !important;
+    }
+    h3.vlt-project-title{
+        font-size: 50px !important;
+    }
+    .has-accent-color h3{
+        font-size: 40px !important;
+    }
+    .vlt-video-button{
+        display: none;
+    }
+  }
